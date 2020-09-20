@@ -1,0 +1,8 @@
+How often do you get a solution in fewer than 20 guesses? 
+	Everytime i tried is fewer than 20 guesses.
+
+Does this change depending on the theory you test (1, 2, 3)?
+	it doesn't depending since I've tried theory 2 which should need the most guesses, and it still fewer than 20 times.
+
+What is good or bad about this strategy?
+	i believe it's good because it's short, useful and readable.

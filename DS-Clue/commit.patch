@@ -1,0 +1,18 @@
+Index: src/model/AssistantJack.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/model/AssistantJack.java	(revision e8eb3047800cd6e6d62deb447915493493f3f3ca)
++++ src/model/AssistantJack.java	(date 1600561710072)
+@@ -124,6 +124,10 @@
+         return this.checkAnswer(theory.getWeapon(), theory.getLocation(), theory.getPerson());
+     }
+ 
++    public Theory getCorrectTheory(){
++        return correctTheory;
++    }
++
+     /**
+      * Accessor for times your AssistantJack has been asked to check a theory
+      *
