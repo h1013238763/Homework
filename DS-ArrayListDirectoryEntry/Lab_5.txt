@@ -1,0 +1,15 @@
+1. O(n)
+2. O(n)
+3. O(n)
+4. head
+    nodeRef.data
+    nodeRef.next
+5. 
+a. set the head node as a new node which has "Shakira" as data and origin head as its next node.
+b. set nodeRef as head. 
+   delete the node in index 1( the node after head.)
+c. set nodeRef as head. 
+   add a new node which has "Tamika"as data at the end of the linked list.
+d. set nodeRef as head. 
+    search the whole linked list to find the node with data "Harry". 
+    if found this node, add a node with data "Sally" before the "Harry" node.
